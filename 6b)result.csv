@@ -1,0 +1,3 @@
+first_name,SUM(p.amount)
+Mike,11853.65
+Jon,12218.48
